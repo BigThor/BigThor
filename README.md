@@ -21,7 +21,7 @@ I love videogames, and this made me focus my career of Computer Engineering into
 Personal projects and courses, since I am not employed as of right now.
 
 ## I am currently learning 📚📘
-* C# (Unity 2D) 
+* C# (Unity 2D / 3D) 
 * and LUA (LOVE2D and others). 
 * I'm also learning italian.
 
