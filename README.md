@@ -27,7 +27,7 @@ Personal projects and courses, since I am not employed as of right now.
 
 ## I am looking to collaborate on 🎮
 Anything related to videogames would be awesome. I do not have that much experience,
-but I have worked on a few projects already and I am always eager to learn.
+but I have worked on a few projects already and I am always eager to learn 😄.
 
 ## You can contact me through 📞
 * 📧 Mail : jr._5oct1998@hotmail.com
