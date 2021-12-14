@@ -22,7 +22,7 @@ Personal projects and courses, since I am not employed as of right now.
 
 ## I am currently learning 📚📘
 * C# (Unity 2D / 3D) 
-* and LUA (LOVE2D and others). 
+* and C++ (Unreal Engine). 
 * I'm also learning italian.
 
 ## I am looking to collaborate on 🎮
@@ -32,3 +32,4 @@ but I have worked on a few projects already and I am always eager to learn 😄.
 ## You can contact me through 📞
 * 📧 Mail : jr._5oct1998@hotmail.com
 * 🌐 [LinkedIn](https://www.linkedin.com/in/sr-victor/)
+* [See my portfolio](https://big-thor.itch.io/)
