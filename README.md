@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Víctor Adrián Suárez Ruiz, but I really like my nickname Big Thor, so I use it a lot. \
-I love videogames, and this made me focus my career of Computer Engineering into the video game development area.
+I love video games, and this made me focus my career of Computer Engineering into the video game development area.
 
 ## I am currently working on 💻
 Personal projects and courses, since I am not employed as of right now.
