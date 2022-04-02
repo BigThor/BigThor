@@ -21,8 +21,8 @@ I love video games, and this made me focus my career of Computer Engineering int
 Personal projects and courses, since I am not employed as of right now.
 
 ## I am currently learning 📚📘
-* C# (Unity 2D / 3D) 
-* and C++ (Unreal Engine). 
+* C++ (Unreal Engine) 
+* and C# (Unity 2D / 3D). 
 * I'm also learning italian.
 
 ## I am looking to collaborate on 🎮
